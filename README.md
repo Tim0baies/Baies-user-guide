@@ -21,7 +21,7 @@ The rise of BN (Bayesian Network) has needed to solve a lot of problems to build
 To solve this problem, a script language was developed by several BN software such as Netica, GeNie, and etc. Through a representation power of a script language, CPD can be generated effectively. Our goal is to use the script language in order to generate CPD as a language used for Conditional Probability. Generally, the script language has to have a method to express conditional statements with parents’ nodes’ states. The nodes’ states can be considered in several ways. For example, states could be categorical data, continuous number, or discrete number, etc. By a character of the states and a relationship between the parents and their child, we need to consider a way to describe the conditional situation. For example, if the relationship between a child and parents is related with arithmetic, a math equation could be used. If the relationship is related with a cause and effect by context described by a language, a language could be used. If a state comes from a database dynamically, a DB language could be used.  Therefore, we can consider several ways to deal with this conditional situation.      
 1.	Bayes interface guide (layout explanation)
 On the right side of the screen you should see the BNS window, here is where you can input java code for models
-[](Tim0baies.github.com/repository/img/BG1.png)
+![](Tim0baies.github.com/Baies-user-guide/img/BG1.png) https://tim0baies.github.io/Baies-user-guide/
   
 Registering models: By clicking on the registration tab located at the top right corner you can register your model into the Bayesian cloud
  
