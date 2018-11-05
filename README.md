@@ -22,7 +22,7 @@ To solve this problem, a script language was developed by several BN software su
 1.	Bayes interface guide (layout explanation)
 On the right side of the screen you should see the BNS window, here is where you can input java code for models
 
-![Alt text](https://github.com/Tim0baies/Baies-user-guide/blob/master/BG1.PNG)
+![Example](https://github.com/Tim0baies/Baies-user-guide/blob/master/BG1.PNG)
 
 Registering models: By clicking on the registration tab located at the top right corner you can register your model into the Bayesian cloud
  
