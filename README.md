@@ -107,7 +107,8 @@ Version 3 of CPSL has just arithmetic functions as “+, -, /, *“. In the futu
 
 12.	Random Distribution Functions
 Version 3 of CPSL provides following Random Distribution Functions. In the future or by users needs, more functions will be added.
-	
+![Example](https://github.com/Tim0baies/Baies-user-guide/blob/master/BG10.PNG)
+![Example](https://github.com/Tim0baies/Baies-user-guide/blob/master/BG11.PNG)
 
 
 
